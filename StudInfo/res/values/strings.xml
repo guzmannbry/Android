@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StudInfo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="mycourselist">
+        <item >-------</item>
+        <item >BSIT</item>
+        <item >ACT</item>
+        <item >BSED</item>
+        <item >BSCRIM</item>
+        <item >HRM</item>
+        <item >BSBA</item>
+    </string-array>
+
+</resources>
